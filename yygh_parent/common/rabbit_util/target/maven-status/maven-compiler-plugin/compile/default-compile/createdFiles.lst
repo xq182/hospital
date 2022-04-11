@@ -1,0 +1,3 @@
+com\atguigu\common\rabbit\config\MQConfig.class
+com\atguigu\common\rabbit\constant\MqConst.class
+com\atguigu\common\rabbit\service\RabbitService.class

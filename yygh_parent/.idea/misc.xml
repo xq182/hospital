@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service_cmn/pom.xml" />
+        <option value="$PROJECT_DIR$/hospital-manage/pom.xml" />
+        <option value="$PROJECT_DIR$/service_client/pom.xml" />
+        <option value="$PROJECT_DIR$/service_gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service_user/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service_msm/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service_oss/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service_order/pom.xml" />
+        <option value="$PROJECT_DIR$/service_client/service_user_client/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service_task/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service_statistics/pom.xml" />
+        <option value="$PROJECT_DIR$/service_client/service_order_client/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
